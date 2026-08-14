@@ -19,7 +19,6 @@ and tools that make complex workflows easier to operate.
 ## Selected work
 
 - **[Skill Manager](https://github.com/dees91/agent-skill-manager)** — a public-preview macOS app, TUI, and CLI for safely and reversibly managing Agent Skills across Claude Code and Codex.
-- **[H3 Companion](https://github.com/dees91/h3-companion)** — a Python companion that parses Heroes III saves and maps, with a browser UI, pathfinding overlays, and transparent battle estimates.
 - **[Android/Kotlin issue reproductions](https://github.com/dees91/KoinIssue2379)** — focused, runnable cases for framework and tooling regressions.
 
 ## Elsewhere
