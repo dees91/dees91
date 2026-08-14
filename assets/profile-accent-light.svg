@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104">
+  <defs>
+    <clipPath id="frame">
+      <rect width="1200" height="104" rx="8"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="104" fill="#f6f5f1"/>
+
+    <circle cx="40" cy="116" r="62" fill="none" stroke="#e64256" stroke-width="18"/>
+    <path d="M142 44h34" stroke="#e64256" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="226" cy="31" r="8" fill="#009f91"/>
+
+    <g fill="none" stroke="#006b63" stroke-width="3" stroke-linecap="round">
+      <path d="M300 104 382 0"/>
+      <path d="M326 104 408 0"/>
+      <path d="M352 104 434 0"/>
+    </g>
+    <circle cx="426" cy="70" r="3" fill="#009f91"/>
+    <circle cx="514" cy="34" r="7" fill="none" stroke="#e64256" stroke-width="3"/>
+
+    <g stroke-linecap="round" stroke-width="3">
+      <path d="M654 26v34M662 26v34M670 26v34M678 26v34" stroke="#006b63"/>
+      <path d="M686 26v34" stroke="#009f91"/>
+    </g>
+    <circle cx="768" cy="110" r="26" fill="none" stroke="#006b63" stroke-width="8"/>
+
+    <path d="M866 12c10 54 74 54 84 0" fill="none" stroke="#dca83d" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="1014" cy="72" r="4" fill="#e64256"/>
+    <circle cx="1202" cy="104" r="70" fill="none" stroke="#009f91" stroke-width="18"/>
+  </g>
+</svg>

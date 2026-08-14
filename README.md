@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-accent-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-accent-light.svg">
+  <img src="./assets/profile-accent-light.svg" alt="">
+</picture>
+
 # Piotr Krawczyk
 
 **Principal Software Engineer · Mobile · Product Engineering · AI Tooling**
