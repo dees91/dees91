@@ -8,19 +8,21 @@
 
 **Principal Software Engineer · Mobile · Product Engineering · AI Tooling**
 
-I build and modernize software across mobile, backend, and developer tooling.
-Android/Kotlin is my deepest specialization; I am a polyglot in practice,
-working with Compose Multiplatform, Flutter, Go, Python, TypeScript, and
-AI-assisted systems when the problem calls for them.
+Android/Kotlin is my deepest specialization. I build and modernize software
+across mobile, backend, and developer tooling. When the problem calls for it,
+I work with Compose Multiplatform, Flutter, Go, Python, TypeScript, and
+AI-assisted systems.
 
-I care about pragmatic architecture, safe migrations, observable behavior,
-and tools that make complex workflows easier to operate.
+## What I work on
 
-## Focus
+Mobile is the center: native Android and Kotlin/Compose, plus KMP/Compose
+Multiplatform and Flutter. On existing software, I keep the architecture
+pragmatic: I modularize code, make migrations safely, debug failures, and
+connect mobile apps to backend APIs. I want the system's behavior to stay
+observable while that work is underway.
 
-- **Mobile products** — native Android, Kotlin/Compose, KMP/Compose Multiplatform, and Flutter.
-- **Modernization** — architecture, modularization, migrations, debugging, and backend/API integration.
-- **Developer tooling** — local-first apps, automation, and AI-agent workflows.
+Developer tooling is the other thread. I build local-first apps, automation,
+and AI-agent workflows to make complex workflows easier to operate.
 
 ## Selected work
 
