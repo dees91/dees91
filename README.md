@@ -6,34 +6,46 @@
 
 # Piotr Krawczyk
 
-**Principal Software Engineer · Mobile · Product Engineering · AI Tooling**
+**Principal Software Engineer · Mobile Apps · AI Tools and Systems**
 
-Android/Kotlin is my deepest specialization. I build and modernize software
-across mobile, backend, and developer tooling. When the problem calls for it,
-I work with Compose Multiplatform, Flutter, Go, Python, TypeScript, and
-AI-assisted systems.
-
-## What I work on
-
-Mobile is the center: native Android and Kotlin/Compose, plus KMP/Compose
-Multiplatform and Flutter. On existing software, I keep the architecture
-pragmatic: I modularize code, make migrations safely, debug failures, and
-connect mobile apps to backend APIs. I want the system's behavior to stay
-observable while that work is underway.
-
-Developer tooling is the other thread. I build local-first apps, automation,
-and AI-agent workflows to make complex workflows easier to operate.
+I build mobile apps, developer tools, and software that uses AI. I work on
+automation and workflows for AI agents. Android and Kotlin are my strongest
+skills. I also build backend systems, connect apps to APIs, and improve
+existing software.
 
 ## Selected work
 
-- **[Skill Manager](https://github.com/dees91/agent-skill-manager)** — a public-preview macOS app, TUI, and CLI for safely and reversibly managing Agent Skills across Claude Code and Codex.
-- **[Android/Kotlin issue reproductions](https://github.com/dees91/KoinIssue2379)** — focused, runnable cases for framework and tooling regressions.
+### [Skill Manager](https://github.com/dees91/agent-skill-manager)
 
-## Elsewhere
+A macOS app, TUI, and CLI to manage skills for AI coding tools. You can turn
+skills on or off without deleting them.
+
+<a href="https://github.com/dees91/agent-skill-manager">
+  <img src="./assets/selected-work/skill-manager.png" width="600" alt="Skill Manager: skill rows with separate ON and OFF states for Claude, Codex, Muse, and Grok">
+</a>
+
+[Download macOS app](https://github.com/dees91/agent-skill-manager#quick-start) ·
+[Repository](https://github.com/dees91/agent-skill-manager)
+
+### [RFID Store Simulator](https://github.com/dees91/rfid-store-simulator)
+
+A 3D store for testing RFID apps without a real scanner. It includes a BLE
+scanner emulator.
+
+<a href="https://github.com/dees91/rfid-store-simulator">
+  <img src="./assets/selected-work/rfid-store-simulator.png" width="600" alt="RFID Store Simulator: green scanned shelves and a counter showing 1,219 of 2,000 tags scanned">
+</a>
+
+[Watch demo](https://github.com/dees91/rfid-store-simulator#readme) ·
+[Repository](https://github.com/dees91/rfid-store-simulator)
+
+**[Koin scope bug](https://github.com/dees91/KoinIssue2379)** — a small Android
+app that shows a bug after updating Koin.
+
+## Links and contact
 
 [deesoft.pl](https://deesoft.pl/en/) ·
 [LinkedIn](https://www.linkedin.com/in/piotr-krawczyk-engineer/) ·
 [Stack Overflow](https://stackoverflow.com/users/3889402/dees91)
 
-For a project or technical conversation:
-[contact@deesoft.pl](mailto:contact@deesoft.pl)
+Email: [contact@deesoft.pl](mailto:contact@deesoft.pl)
