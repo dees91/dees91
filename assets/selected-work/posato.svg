@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title description">
+  <title id="title">Posato: Room for what matters.</title>
+  <desc id="description">An illustrative active session with 44 minutes left, 12 websites, and 5 applications.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; }
+    .primary { fill: #f2f3eb; }
+    .sage { fill: #a8c5a0; }
+    .icon { fill: none; stroke: #a8c5a0; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
+
+  <rect width="1200" height="400" fill="#17231c"/>
+  <rect x="27" y="36" width="1146" height="338" rx="20" fill="#1b2720" stroke="#3b5140"/>
+
+  <text x="67" y="94" class="sage" font-size="22" font-weight="700" letter-spacing="2.6">SESSION ACTIVE</text>
+  <g class="primary" font-size="78" font-weight="700">
+    <text x="64" y="187">Room for</text>
+    <text x="64" y="261">what matters.</text>
+  </g>
+  <rect x="68" y="301" width="20" height="53" rx="10" fill="#344f37" transform="rotate(10 78 327.5)"/>
+  <rect x="98" y="279" width="22" height="58" rx="11" fill="#a8c5a0" transform="rotate(10 109 308)"/>
+
+  <rect x="620" y="62" width="520" height="126" rx="19" fill="#1b2720" stroke="#3b5140"/>
+  <g class="icon">
+    <circle cx="656" cy="126" r="15"/>
+    <path d="M656 116v11l8 5"/>
+  </g>
+  <text x="716" y="125" class="primary" font-size="40" font-weight="700">Until 9:38 PM</text>
+  <text x="716" y="163" class="sage" font-size="27">44 min left</text>
+
+  <rect x="620" y="203" width="72" height="65" rx="15" fill="#283b2b"/>
+  <g class="icon">
+    <circle cx="656" cy="236" r="14"/>
+    <ellipse cx="656" cy="236" rx="6" ry="14"/>
+    <path d="M642 236h28"/>
+  </g>
+  <text x="716" y="249" class="primary" font-size="34" font-weight="700">12 websites</text>
+  <path d="m1116 227 9 9-9 9" fill="none" stroke="#f2f3eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M620 278h520" stroke="#3b5140"/>
+
+  <rect x="620" y="286" width="72" height="65" rx="15" fill="#283b2b"/>
+  <g fill="none" stroke="#a8c5a0" stroke-width="2">
+    <rect x="643" y="305" width="10" height="10"/>
+    <rect x="660" y="305" width="10" height="10"/>
+    <rect x="643" y="322" width="10" height="10"/>
+    <rect x="660" y="322" width="10" height="10"/>
+  </g>
+  <text x="716" y="332" class="primary" font-size="34" font-weight="700">5 applications</text>
+  <path d="m1116 310 9 9-9 9" fill="none" stroke="#f2f3eb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
