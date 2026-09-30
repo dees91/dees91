@@ -15,6 +15,18 @@ existing software.
 
 ## Selected work
 
+### [Posato](https://github.com/dees91/posato)
+
+An app for Mac and iPhone that blocks websites and apps you choose for a set
+time. Start a pause now or schedule it to repeat.
+
+<a href="https://github.com/dees91/posato">
+  <img src="./assets/selected-work/posato.png" width="600" alt="Posato: Room for what matters, with an example active session showing 44 minutes left, 12 websites, and 5 applications">
+</a>
+
+[Website and downloads](https://posato.app) ·
+[Repository](https://github.com/dees91/posato)
+
 ### [Skill Manager](https://github.com/dees91/agent-skill-manager)
 
 A macOS app, TUI, and CLI to manage skills for AI coding tools. You can turn
